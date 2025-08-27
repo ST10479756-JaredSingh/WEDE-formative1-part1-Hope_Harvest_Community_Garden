@@ -1,0 +1,91 @@
+<!--Harvard Style Reference List-->
+<!--AdvTech Online SharePoint. (no date) WEDE5020MM.docx (Word document at IIE Student Materials: WEDE5020). [online] Available at: https://advtechonline.sharepoint.com/... [Accessed 27 August 2025]. --> 
+<!--Bekin Consulting. (2024) Starting an NPO in South Africa (2024). [online] Available at: https://www.bekinconsulting.co.za/starting-an-npo-in-south-africa/ [Accessed 27 August 2025].  -->
+<!--Bing Videos. (no date) How to code in VS Studio (Riverview / related video). [online] Available at: https://www.bing.com/videos/riverview/relatedvideo?q=how+to+code+in+vs+studio&cvid=87fa0e83e5544131b790571344299ffb... [Accessed 27 August 2025].  -->
+<!--Canva. (no date) Canva. [online] Available at: https://www.canva.com/?msockid=0ef187512d7b66cd1c3b92e22cb267ec [Accessed 27 August 2025].  -->
+<!--Govchain. (2023) Ultimate Guide to Starting a Non-Profit Company. [online] Available at: https://www.govchain.co.za/blog/ultimate-guide-to-starting-a-non-profit-company [Accessed 27 August 2025].  -->
+<!--Microsoft. (2025) Tutorial: Get started with Windows Forms Designer. [online] Available at: https://learn.microsoft.com/en-us/visualstudio/designers/walkthrough-windows-forms-designer?view=vs-2022 [Accessed 27 August 2025].  -->
+<!--Pinterest. (no date) Pinterest. [online] Available at: https://www.pinterest.com/ [Accessed 27 August 2025].-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Donate | Hope Harvest Community Garden</title>
+</head>
+<body>
+  <div class="container">
+    <!-- PAGE HEADER -->
+    <header>
+      <h1>Donate</h1>
+      <p>
+        Your generosity helps us grow food, educate residents, and strengthen our community.  
+        Please consider making a one-time or recurring donation.
+      </p>
+    </header>
+
+    <!-- PRIMARY NAVIGATION -->
+    <nav aria-label="Primary">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="projects.html">Projects</a></li>
+        <li><a href="events.html">Events</a></li>
+        <li><a href="volunteer.html">Volunteer</a></li>
+        <li><a href="donate.html" aria-current="page">Donate</a></li> <!-- Current page indicated for screen readers -->
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+
+    <!-- MAIN CONTENT -->
+    <main>
+      <!-- Donation form section -->
+      <section aria-labelledby="donation-form-title">
+        <h2 id="donation-form-title">Donation Form</h2>
+        <form action="#" method="post">
+          <!-- Full Name input -->
+          <label for="name">Full Name</label>
+          <input id="name" name="name" type="text" required aria-required="true" />
+
+          <!-- Email input -->
+          <label for="email">Email Address</label>
+          <input id="email" name="email" type="email" required aria-required="true" />
+
+          <!-- Donation amount input -->
+          <label for="amount">Donation Amount (R)</label>
+          <input id="amount" name="amount" type="number" min="10" required aria-required="true" />
+
+          <!-- Donation frequency select -->
+          <label for="frequency">Donation Type</label>
+          <select id="frequency" name="frequency" required aria-required="true">
+            <option value="">-- Please choose --</option>
+            <option value="once">One-Time</option>
+            <option value="monthly">Monthly</option>
+          </select>
+
+          <!-- Payment method select -->
+          <label for="payment">Payment Method</label>
+          <select id="payment" name="payment" required aria-required="true">
+            <option value="">-- Please choose --</option>
+            <option value="credit">Credit/Debit Card</option>
+            <option value="eft">Bank Transfer (EFT)</option>
+            <option value="paypal">PayPal</option>
+          </select>
+
+          <!-- Submit button -->
+          <button type="submit">Donate Now</button>
+        </form>
+      </section>
+    </main>
+
+    <!-- FOOTER -->
+    <footer>
+      <small>
+        © <span id="year"></span> Hope Harvest Community Garden •
+        <a href="contact.html">Contact</a>
+      </small>
+    </footer>
+  </div>
+</body>
+</html>
