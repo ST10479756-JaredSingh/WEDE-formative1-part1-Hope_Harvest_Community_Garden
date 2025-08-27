@@ -21,7 +21,7 @@
 ---
 
 ## Project Overview
-Hope Harvest Community Garden website is a volunteer-maintained, community-oriented website intended to further the organization's goal of improving food security and encouraging sustainable living practices. The website is a centralized information, outreach, and engagement resource for volunteers, donors, community residents, schools, and other community groups.
+Hope Harvest Community Garden site is an information, outreach, and mobilizing tool that is volunteer-led and community-served with the mission of heightening awareness of increasing food security and sustainable lifestyle initiatives. The site is also a point of convergence for volunteers, donors, local residents, schools, and other community organizations as an information, outreach, and mobilizing resource.
 
 ---
 
