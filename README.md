@@ -1,6 +1,6 @@
 # Hope Harvest Community Garden Website
 
-**Author:** Jared Singh  
+**Student:** Jared Singh  
 **Student Number:** ST10479756  
 
 ---
