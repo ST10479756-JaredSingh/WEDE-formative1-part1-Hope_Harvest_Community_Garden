@@ -91,30 +91,46 @@ Hope Harvest Community Garden website is a volunteer-maintained, community-orien
 ---
 
 ## Wireframe
-**Home Page**  
+**Home Page** 
+<img width="940" height="565" alt="image" src="https://github.com/user-attachments/assets/923b8739-3d24-47e9-b766-c1e607c8a78e" />
+
 (Canva, 2025)  
 
 **About Us**  
+<img width="940" height="535" alt="image" src="https://github.com/user-attachments/assets/ae9e73cf-e4da-4952-9025-2092808abd2c" />
+
 (Canva, 2025)  
 
 **Projects Page**  
+<img width="940" height="533" alt="image" src="https://github.com/user-attachments/assets/a5ee638b-df1a-4114-adb6-3518823a8d9a" />
+
 (Canva, 2025)  
 
 **Events Page**  
+<img width="940" height="533" alt="image" src="https://github.com/user-attachments/assets/ec58c80d-928b-42ac-8fe7-01cae6c226e2" />
+
 (Canva, 2025)  
 
 **Volunteer Page**  
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/9b274bbf-bfae-4a32-9616-975333560f04" />
+
 (Canva, 2025)  
 
 **Donate Page**  
+<img width="940" height="496" alt="image" src="https://github.com/user-attachments/assets/81a6591e-aa0f-46ef-ae52-324866f7da6e" />
+
 (Canva, 2025)  
 
 **Contact Page**  
+<img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/d5c01a81-a487-4ac6-9dc8-426924132422" />
+
 (Canva, 2025)  
 
 ---
 
 ## Site Map
+<img width="1042" height="894" alt="image" src="https://github.com/user-attachments/assets/b995f965-8440-47a5-a8e3-9507df214eff" />
+
 (Canva, 2025)  
 
 ---
